@@ -1,0 +1,839 @@
+[
+  {
+    "file": "hero.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Home hero — styled living room",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1724582586580-8b52c02e99dd",
+        "page": "https://unsplash.com/photos/W86O2hU317U",
+        "by": "Prydumano Design",
+        "desc": "Living room, couch, coffee table, sliding glass doors"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1724582586458-a51791349977",
+        "page": "https://unsplash.com/photos/6ybDmGNE2Yg",
+        "by": "Prydumano Design",
+        "desc": "Modern living room, large window"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1759722665629-29df6ee4f9a5",
+        "page": "https://unsplash.com/photos/upT3v0yLnvk",
+        "by": "Costa Live",
+        "desc": "Light grey sofa, modern living room"
+      }
+    ]
+  },
+  {
+    "file": "hero-detail.jpg",
+    "width": 1200,
+    "height": 1200,
+    "slot": "Home hero — texture close-up",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1768946131690-247c5319f0d8",
+        "page": "https://unsplash.com/photos/Gkig1kUYl4c",
+        "by": "Caroline Badran",
+        "desc": "Textured beige sofa, wooden legs, close-up"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1517858818796-d31fc694c92a",
+        "page": "https://unsplash.com/photos/Y2k744FA5bg",
+        "by": "Joshua Hoehne",
+        "desc": "Brown fabric sofa"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1582203500351-297829d76c36",
+        "page": "https://unsplash.com/photos/HtvfxfJg1TY",
+        "by": "Marc Rentschler",
+        "desc": "Brown textile close-up"
+      }
+    ]
+  },
+  {
+    "file": "living-cover.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Living Room — cover",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1724582586495-d050726cf354",
+        "page": "https://unsplash.com/photos/4Q9aOJF-6vI",
+        "by": "Prydumano Design",
+        "desc": "Living room, couch and table"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1768946131549-f03cafef7bc1",
+        "page": "https://unsplash.com/photos/in2D_wh4sq8",
+        "by": "Caroline Badran",
+        "desc": "Peach sofa with pillows"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1759722665935-0967b4e0da93",
+        "page": "https://unsplash.com/photos/MRx-rSdOKtk",
+        "by": "Costa Live",
+        "desc": "Grey sectional, minimalist room"
+      }
+    ]
+  },
+  {
+    "file": "living-1.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Living Room — gallery 1",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1768144092684-c1a5dd6c7aad",
+        "page": "https://unsplash.com/photos/XWRW66qiRp8",
+        "by": "POOJAN THANEKAR",
+        "desc": "Cream sofa and coffee tables"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1772112334845-86016056137b",
+        "page": "https://unsplash.com/photos/MfbQOer86JI",
+        "by": "andy chiu",
+        "desc": "Living room, ambient lighting"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1648881806148-e5c51179c826",
+        "page": "https://unsplash.com/photos/nhzhEZvhZ1M",
+        "by": "Ali Moradi",
+        "desc": "Living room with chandelier"
+      }
+    ]
+  },
+  {
+    "file": "living-2.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Living Room — gallery 2 (tall)",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1768946131536-39b5f3ec329d",
+        "page": "https://unsplash.com/photos/8wfoqYB4LgE",
+        "by": "Caroline Badran",
+        "desc": "Textured brown sofa in sunlight"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1759722665623-c4c1075c0a6b",
+        "page": "https://unsplash.com/photos/k9z-PMFolfo",
+        "by": "Costa Live",
+        "desc": "Grey loveseat, plants and art"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1759722667832-48e555120458",
+        "page": "https://unsplash.com/photos/wl8PoL2RKpM",
+        "by": "Costa Live",
+        "desc": "Grey sofa, pillows and throw"
+      }
+    ]
+  },
+  {
+    "file": "living-3.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Living Room — gallery 3",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1669387448840-610c588f003d",
+        "page": "https://unsplash.com/photos/Nl1cP1Tr2oU",
+        "by": "Lotus Design N Print",
+        "desc": "Black couch, table with flowers"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1757924461488-ef9ad0670978",
+        "page": "https://unsplash.com/photos/LqGf5UvHCZ8",
+        "by": "Aalo Lens",
+        "desc": "Living room, large windows"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1696413542101-2479dd479982",
+        "page": "https://unsplash.com/photos/vdfUjNhI1PA",
+        "by": "Makespace Design",
+        "desc": "Furnished living room"
+      }
+    ]
+  },
+  {
+    "file": "bedroom-cover.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Bedroom — cover",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1704428382616-d8c65fdd76f4",
+        "page": "https://unsplash.com/photos/hdLHMTlvOZE",
+        "by": "Suzanne Rushton",
+        "desc": "Bed, nightstand and lamp"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1658595150745-1b8e0722e36b",
+        "page": "https://unsplash.com/photos/Lsxox347mdg",
+        "by": "Grant Durr",
+        "desc": "Bedroom with bed and chair"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1663811397207-418a92396ad5",
+        "page": "https://unsplash.com/photos/1dL6msE7P9s",
+        "by": "Bilal Mansuri",
+        "desc": "Bedroom with large mirror"
+      }
+    ]
+  },
+  {
+    "file": "bedroom-1.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Bedroom — gallery 1",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1750420556288-d0e32a6f517b",
+        "page": "https://unsplash.com/photos/0tVimluL_ls",
+        "by": "Spl Interiors",
+        "desc": "Modern neutral bedroom"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1613685703237-6628de38ddb7",
+        "page": "https://unsplash.com/photos/n9CzpBTNElo",
+        "by": "Collov Home Design",
+        "desc": "White bed by window"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1699869653495-fe26f4c70b3e",
+        "page": "https://unsplash.com/photos/OihXclRy8n0",
+        "by": "Thufeil M",
+        "desc": "Large bed, round mirror"
+      }
+    ]
+  },
+  {
+    "file": "bedroom-2.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Bedroom — gallery 2 (tall)",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1517862774645-dd398fbfaffa",
+        "page": "https://unsplash.com/photos/h0j-H2jyFj4",
+        "by": "Calum Lewis",
+        "desc": "Table lamp on nightstand"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1593194632872-3d19dab6e278",
+        "page": "https://unsplash.com/photos/1ZzOn5j7Auo",
+        "by": "Megan Bucknall",
+        "desc": "Wooden two-drawer nightstand"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1658595148983-02cbe203aea7",
+        "page": "https://unsplash.com/photos/NGzW3wMxyJo",
+        "by": "Grant Durr",
+        "desc": "Bed with side lamp"
+      }
+    ]
+  },
+  {
+    "file": "bedroom-3.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Bedroom — gallery 3",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1642541070065-3912f347e7c6",
+        "page": "https://unsplash.com/photos/IUTewwzaFeM",
+        "by": "mahmoud azmy",
+        "desc": "Made bed, painting on wall"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1644057501622-dfa7dd26dbfb",
+        "page": "https://unsplash.com/photos/vz9IbCAXHKQ",
+        "by": "Ali Moradi",
+        "desc": "Large bed and chair"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1648634158203-199accfd7afc",
+        "page": "https://unsplash.com/photos/y8e2n6eCXmo",
+        "by": "Ali Moradi",
+        "desc": "Bedroom, large bed"
+      }
+    ]
+  },
+  {
+    "file": "dining-cover.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Dining — cover",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1600488999806-8efb986d87b1",
+        "page": "https://unsplash.com/photos/v9096DgeVeA",
+        "by": "Collov Home Design",
+        "desc": "Wooden dining table and chairs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1740759546813-6b58d44f5dce",
+        "page": "https://unsplash.com/photos/VTTBvQVtJos",
+        "by": "Zoshua Colah",
+        "desc": "Wooden table and chairs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1643036078703-61c3a61fecb5",
+        "page": "https://unsplash.com/photos/L45EHVR2xDY",
+        "by": "Gaëlle Lewyllie",
+        "desc": "Wooden table, green chairs"
+      }
+    ]
+  },
+  {
+    "file": "dining-1.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Dining — gallery 1",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1673300881006-3bd384aa1949",
+        "page": "https://unsplash.com/photos/-yJ-99VvnfE",
+        "by": "Lotus Design N Print",
+        "desc": "Marble table, black chairs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1723750290151-164cb19ebab7",
+        "page": "https://unsplash.com/photos/aYjdg6wZrOU",
+        "by": "Clay Banks",
+        "desc": "Dining room, table and chairs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1631048499453-b1342a519efc",
+        "page": "https://unsplash.com/photos/jm7HYtcW2VM",
+        "by": "Point3D Commercial Imaging",
+        "desc": "White table with chairs"
+      }
+    ]
+  },
+  {
+    "file": "dining-2.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Dining — gallery 2 (tall)",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1666585958637-698ef8559cfc",
+        "page": "https://unsplash.com/photos/7gYsBbPbyFQ",
+        "by": "S.Group Official",
+        "desc": "Dining room, table and chairs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1643036078703-61c3a61fecb5",
+        "page": "https://unsplash.com/photos/L45EHVR2xDY",
+        "by": "Gaëlle Lewyllie",
+        "desc": "Wooden table, green chairs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1656403002413-2ac6137237d6",
+        "page": "https://unsplash.com/photos/wMzpa3WsDkI",
+        "by": "Kam Idris",
+        "desc": "Table, chairs, plant and lights"
+      }
+    ]
+  },
+  {
+    "file": "dining-3.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Dining — gallery 3",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1593136596203-7212b076f4d2",
+        "page": "https://unsplash.com/photos/O0vzxGRmjNs",
+        "by": "Lotus Design N Print",
+        "desc": "Wooden table with chairs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1629236714868-9e43db5bd7c3",
+        "page": "https://unsplash.com/photos/SByfd_e-s2c",
+        "by": "Infinite Views",
+        "desc": "Round table with chairs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1631048500063-aac1c3565d4c",
+        "page": "https://unsplash.com/photos/ijraSE4S_90",
+        "by": "Point3D Commercial Imaging",
+        "desc": "White table with chairs"
+      }
+    ]
+  },
+  {
+    "file": "office-cover.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Home & Office — cover",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1623177579111-ccdec0898ed1",
+        "page": "https://unsplash.com/photos/FxoQkT0jpUg",
+        "by": "ergonofis",
+        "desc": "Desk with chair and drawer"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1688578735352-9a6f2ac3b70a",
+        "page": "https://unsplash.com/photos/7mfNpV5eJH0",
+        "by": "EFFYDESK",
+        "desc": "Grey office chair by wooden desk"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1657757996603-acec063f1d9b",
+        "page": "https://unsplash.com/photos/3pOXfTAWtCk",
+        "by": "ONNO",
+        "desc": "Chair and desk"
+      }
+    ]
+  },
+  {
+    "file": "office-1.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Home & Office — gallery 1",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1596022326953-84f20bfebb77",
+        "page": "https://unsplash.com/photos/zIltX6n3m7w",
+        "by": "Sven Brandsma",
+        "desc": "Black chair beside wooden table"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1633789638578-eef0da1dc063",
+        "page": "https://unsplash.com/photos/VtTjyWpHQwM",
+        "by": "Arthur Lambillotte",
+        "desc": "Desk setup"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1651739084015-85af0539f960",
+        "page": "https://unsplash.com/photos/gdi9fJboJQU",
+        "by": "Annie Spratt",
+        "desc": "Furnished room, flowers on table"
+      }
+    ]
+  },
+  {
+    "file": "office-2.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Home & Office — gallery 2 (tall)",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1612372606404-0ab33e7187ee",
+        "page": "https://unsplash.com/photos/Pvse_0mSm6Y",
+        "by": "Kelly Sikkema",
+        "desc": "Rolling chair beside plant"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd",
+        "page": "https://unsplash.com/photos/3d4sSUChunA",
+        "by": "James McDonald",
+        "desc": "Leather office chair, white desk"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1688578735427-994ecdea3ea4",
+        "page": "https://unsplash.com/photos/TIOGOV5ZQzA",
+        "by": "EFFYDESK",
+        "desc": "Office chair and wooden desk"
+      }
+    ]
+  },
+  {
+    "file": "office-3.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Home & Office — gallery 3",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1573849652178-d51bf90974ec",
+        "page": "https://unsplash.com/photos/x3qtKmUj6JY",
+        "by": "Andrijana Bozic",
+        "desc": "Desk near open door"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1651739084015-85af0539f960",
+        "page": "https://unsplash.com/photos/gdi9fJboJQU",
+        "by": "Annie Spratt",
+        "desc": "Furnished room"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596022326953-84f20bfebb77",
+        "page": "https://unsplash.com/photos/zIltX6n3m7w",
+        "by": "Sven Brandsma",
+        "desc": "Chair beside wooden table"
+      }
+    ]
+  },
+  {
+    "file": "outdoor-cover.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Outdoor — cover",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1785753734700-a8f22bfc256b",
+        "page": "https://unsplash.com/photos/r12n1w5RKCg",
+        "by": "Rodrigo Rodrigues | WOLF ART",
+        "desc": "Patio, wicker chairs, green plants"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1790469337186-5b3ceddb2e87",
+        "page": "https://unsplash.com/photos/YTRFKXsucaU",
+        "by": "Rodrigo Rodrigues | WOLF ART",
+        "desc": "Wicker armchair on brick patio"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1759328306757-863439c92a4d",
+        "page": "https://unsplash.com/photos/IPkbEbHr7jM",
+        "by": "set.sj",
+        "desc": "Chair and table in a garden"
+      }
+    ]
+  },
+  {
+    "file": "outdoor-1.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Outdoor — gallery 1",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1762608675427-09ac2dbd1540",
+        "page": "https://unsplash.com/photos/9U9Kf6191X0",
+        "by": "Sergej",
+        "desc": "Outdoor seating, white furniture"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1758445047242-c61b1b7491a5",
+        "page": "https://unsplash.com/photos/E49Zx1-nbbA",
+        "by": "Zhen Yao",
+        "desc": "White canvas chair outdoors"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1760304951289-5217afa6273c",
+        "page": "https://unsplash.com/photos/vYexDfu2Uj8",
+        "by": "Haberdoedas",
+        "desc": "Wooden outdoor sofa"
+      }
+    ]
+  },
+  {
+    "file": "outdoor-2.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Outdoor — gallery 2 (tall)",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1759471606534-cbd4aca4d4cb",
+        "page": "https://unsplash.com/photos/uLiYIjqd5DE",
+        "by": "Airon J",
+        "desc": "White chair, wooden table on deck"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1776950815660-8d20faeefb94",
+        "page": "https://unsplash.com/photos/8bUwgFP0HA4",
+        "by": "Alexander Mass",
+        "desc": "Bar table and stools, covered porch"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1790166624559-aafef81ab83d",
+        "page": "https://unsplash.com/photos/QYHrfLGKljw",
+        "by": "Ivett M",
+        "desc": "Woven rocking chairs"
+      }
+    ]
+  },
+  {
+    "file": "outdoor-3.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Outdoor — gallery 3",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1787237849351-5dcba5f478c4",
+        "page": "https://unsplash.com/photos/zO3aXA0cukg",
+        "by": "Clay Banks",
+        "desc": "Pool with loungers and umbrellas"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1787237876710-286560d4ff2f",
+        "page": "https://unsplash.com/photos/xvnPgm6lnAs",
+        "by": "Clay Banks",
+        "desc": "Pool, loungers, stone patio"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1760304951289-5217afa6273c",
+        "page": "https://unsplash.com/photos/vYexDfu2Uj8",
+        "by": "Haberdoedas",
+        "desc": "Wooden outdoor sofa"
+      }
+    ]
+  },
+  {
+    "file": "decor-cover.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Décor — cover",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1777791374876-191ba4442a7d",
+        "page": "https://unsplash.com/photos/Ib-kiMPOR04",
+        "by": "Khanh Do",
+        "desc": "Decorative objects and lamp"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1642689703534-e41f29622078",
+        "page": "https://unsplash.com/photos/f9mpWX2a-QU",
+        "by": "Mary Skrynnikova",
+        "desc": "Two vases and a lamp"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1730112636370-991b05c45d4b",
+        "page": "https://unsplash.com/photos/czVU0LNFRps",
+        "by": "Olivie Strauss",
+        "desc": "Vases with flowers on wooden table"
+      }
+    ]
+  },
+  {
+    "file": "decor-1.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Décor — gallery 1",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1765001198110-52fab7146a10",
+        "page": "https://unsplash.com/photos/4ODFAtGlmRQ",
+        "by": "Andy Bob",
+        "desc": "Lamp on coffee table with flowers"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1776313756907-341a90c06cac",
+        "page": "https://unsplash.com/photos/KJVfcwpHI1w",
+        "by": "Franco Debartolo",
+        "desc": "Neutral living room décor"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1617104424032-b9bd6972d0e4",
+        "page": "https://unsplash.com/photos/GNs831kqdoM",
+        "by": "Spacejoy",
+        "desc": "Armchair beside round mirror"
+      }
+    ]
+  },
+  {
+    "file": "decor-2.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "Décor — gallery 2 (tall)",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1721824296808-92c325601dd8",
+        "page": "https://unsplash.com/photos/KtdrZfBsK1o",
+        "by": "Lisa Anna",
+        "desc": "Mirror and shelf"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572374985879-d2a6bfd8f979",
+        "page": "https://unsplash.com/photos/1MUIokHmqx8",
+        "by": "Holly Stratton",
+        "desc": "Oval mirror beside window"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1552290403-dbe66f38ee3a",
+        "page": "https://unsplash.com/photos/HxUemC8YhKQ",
+        "by": "siyan peng",
+        "desc": "Round mirror, potted flower"
+      }
+    ]
+  },
+  {
+    "file": "decor-3.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Décor — gallery 3",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1784651859174-d7e6f802d54e",
+        "page": "https://unsplash.com/photos/_gdGjmbX7mw",
+        "by": "McFollis",
+        "desc": "Console with vases and mirrors"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1617104424032-b9bd6972d0e4",
+        "page": "https://unsplash.com/photos/GNs831kqdoM",
+        "by": "Spacejoy",
+        "desc": "Armchair beside round mirror"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1778999948341-c0e0904aa3a3",
+        "page": "https://unsplash.com/photos/k7Nk0yVgtlE",
+        "by": "Mahdi",
+        "desc": "Lamps in a corner"
+      }
+    ]
+  },
+  {
+    "file": "interiors-1.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Interiors — hero / home feature",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1745301558339-44eb3217d5da",
+        "page": "https://unsplash.com/photos/oaITdLL7bD4",
+        "by": "Spl Interiors",
+        "desc": "Luxurious modern living room"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1758448755778-90ebf4d0f1e7",
+        "page": "https://unsplash.com/photos/jkwKXLxTY_4",
+        "by": "Aalo Lens",
+        "desc": "Living room, large sectional"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1758448500596-ce0e0239f1be",
+        "page": "https://unsplash.com/photos/MUh4kHwBdvo",
+        "by": "Aalo Lens",
+        "desc": "Living room with marble accents"
+      }
+    ]
+  },
+  {
+    "file": "interiors-2.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Interiors — image 2",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1745794621090-d856c53b0cc2",
+        "page": "https://unsplash.com/photos/urH155LONWs",
+        "by": "Clay Banks",
+        "desc": "Dining room with kitchen"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1631048499453-b1342a519efc",
+        "page": "https://unsplash.com/photos/jm7HYtcW2VM",
+        "by": "Point3D Commercial Imaging",
+        "desc": "Dining table and chairs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1758448755952-42b404bc6f39",
+        "page": "https://unsplash.com/photos/-QCjahEjubY",
+        "by": "Aalo Lens",
+        "desc": "Living room, elegant furniture"
+      }
+    ]
+  },
+  {
+    "file": "interiors-3.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Interiors — image 3",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1757344454333-cc666252e596",
+        "page": "https://unsplash.com/photos/u-RIsXlI8Q8",
+        "by": "POOJAN THANEKAR",
+        "desc": "Bedroom, wooden accents, soft light"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1696762932825-2737db830bbe",
+        "page": "https://unsplash.com/photos/ErDrzSvSNv4",
+        "by": "Le Quan",
+        "desc": "Bedroom with bed and chair"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1720420021124-4e18564e070f",
+        "page": "https://unsplash.com/photos/b0DHABrkRcM",
+        "by": "Naksha Banwao",
+        "desc": "Bedroom with bed and desk"
+      }
+    ]
+  },
+  {
+    "file": "about.jpg",
+    "width": 1600,
+    "height": 2000,
+    "slot": "About — showroom feel",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1785458033975-14c655aeb82f",
+        "page": "https://unsplash.com/photos/oEQs3mhCBqY",
+        "by": "Remuel",
+        "desc": "Sofas displayed in a furniture store"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1760611656148-063d3b9a8dbc",
+        "page": "https://unsplash.com/photos/rItWuQHaOpM",
+        "by": "David Kristianto",
+        "desc": "Chairs displayed in a showroom"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1788716183840-bb3f0edc2f75",
+        "page": "https://unsplash.com/photos/655hFhdf2xw",
+        "by": "Sou Jest",
+        "desc": "Wooden chairs on pedestals"
+      }
+    ]
+  },
+  {
+    "file": "craft.jpg",
+    "width": 1600,
+    "height": 1200,
+    "slot": "Craftsmanship",
+    "choice": 0,
+    "options": [
+      {
+        "src": "https://images.unsplash.com/photo-1631396326838-de37e5f8bcbc",
+        "page": "https://unsplash.com/photos/DfffcjQ106U",
+        "by": "Bailey Alexander",
+        "desc": "Working a piece of wood"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1497219055242-93359eeed651",
+        "page": "https://unsplash.com/photos/3cIvvzjE6Lk",
+        "by": "Dominik Scythe",
+        "desc": "Chisel carving wood"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1631396326646-c06a935ff3a6",
+        "page": "https://unsplash.com/photos/DAd_Wn6Mj78",
+        "by": "Bailey Alexander",
+        "desc": "Working on a chair in a workshop"
+      }
+    ]
+  }
+]

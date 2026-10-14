@@ -29,6 +29,13 @@ export const ArrowRight = (p: IconProps) => (
   </Base>
 );
 
+export const ArrowUp = (p: IconProps) => (
+  <Base {...p}>
+    <path d="M12 19V5" />
+    <path d="m6 11 6-6 6 6" />
+  </Base>
+);
+
 export const ArrowUpRight = (p: IconProps) => (
   <Base {...p}>
     <path d="M7 17 17 7" />

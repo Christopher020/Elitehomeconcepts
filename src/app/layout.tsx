@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Jost, Marcellus } from "next/font/google";
 import type { ReactNode } from "react";
 
+import { BackToTop } from "@/components/BackToTop";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { WhatsAppFloat } from "@/components/WhatsAppFloat";
@@ -80,7 +81,13 @@ const jsonLd = {
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
-    <html lang="en-NG" className={`${display.variable} ${sans.variable}`} suppressHydrationWarning>
+    <html
+      lang="en-NG"
+      className={`${display.variable} ${sans.variable}`}
+      // Smooth in-page jumps (back to top, skip link); Next turns it off during route changes.
+      data-scroll-behavior="smooth"
+      suppressHydrationWarning
+    >
       <head>
         {/* Flags JS so scroll-reveal styles only hide content when they can reveal it. */}
         <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
@@ -95,7 +102,11 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <Header />
         <main id="main">{children}</main>
         <Footer />
-        <WhatsAppFloat />
+        {/* Bottom-right corner, laid out together so the two buttons never overlap. */}
+        <div className="pointer-events-none fixed right-4 bottom-4 z-40 flex items-center gap-3 sm:right-6 sm:bottom-6">
+          <BackToTop />
+          <WhatsAppFloat />
+        </div>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }}
